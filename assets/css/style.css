@@ -42,7 +42,6 @@
 /*-----BANNER------*/
 
 .banner-imagen {
-    background: url("../img/banner.jpg") no-repeat center / cover;
     height: cacl(100vh - 72px);
     width: 100%;
     
@@ -197,4 +196,13 @@
     border-radius: 100%;
 }
 
+/*----FIN SECCION QUIENES SOMOS----*/
 
+.pie-de-pagina {
+    background: #bfbfbf;
+    color: #fdfdfd;
+    text-align: right;
+    padding: 1.5625rem;
+
+
+}
